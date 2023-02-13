@@ -20,11 +20,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Internet Information Services
+- enabled IIS and installed PHP Manager for IIS
+- Downloaded Rewrite Module
+- MySQL
+- configure permissions and installed osTicket
+- Installed HeidiSQL and created a database. Started and cconnected to a new session
 
 <h2>Installation Steps</h2>
 
