@@ -102,7 +102,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/SulZsuM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5QAuSeC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 10.
@@ -110,7 +110,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/SulZsuM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K8Alzao.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 11.
@@ -118,7 +118,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/SulZsuM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X3Dhywb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 12.
