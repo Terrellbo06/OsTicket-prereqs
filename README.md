@@ -45,7 +45,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/1HKg1QQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2.
+2.Create an Azure Virtual Machine Windows 10, 4 vCPUs
+- Name: Vm-osticket
+- Create a Username & Password
+
 </p>
 <br />
 
@@ -53,7 +56,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DklkuFJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3.
+3.Added all necessary properties for the virtual machine.
 </p>
 <br />
 
@@ -61,7 +64,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/44sI4vb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.
+4. Opened Remote Desktop, I will then press add PC and proceed with the next set of steps. It asked for an IP address in order to connect to the virtual machine I created. In order to do that I copied the public IP address from the VM and inputed it there in the PC name section.
 </p>
 <br />
 
@@ -69,7 +72,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/SulZsuM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5.
+5. Input the user and Password created when I made the RG/VM in Azure.
 </p>
 <br />
 
@@ -77,7 +80,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/lDX5jeo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6.
+6. On the Microsoft Remote Desktop, I have went to the control panel and turned on Internet Information services. With it expanded I selected world wide web, expanded that, and then went to application development features and allowed CGI. We need cgi with iis because it allows us to install php manager. Php is a backend web programming language and osTicket runs off of php
 </p>
 <br />
 
